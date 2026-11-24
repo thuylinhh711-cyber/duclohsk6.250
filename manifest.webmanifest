@@ -1,0 +1,17 @@
+{
+  "name": "Sổ từ dễ nhầm HSK 6",
+  "short_name": "Sổ từ HSK6",
+  "description": "Nhóm từ cận nghĩa HSK 6, đề Hexin và tinh giảng có đáp án giải thích.",
+  "lang": "vi",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#eef2f1",
+  "theme_color": "#1b6b57",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
